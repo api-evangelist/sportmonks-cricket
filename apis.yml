@@ -1,0 +1,32 @@
+aid: sportmonks-cricket
+name: Sportmonks Cricket
+description: "Live cricket score, player statistics and fantasy API"
+url: https://docs.sportmonks.com/cricket/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Sports & Fitness"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Sports And Fitness
+  - Public APIs
+apis:
+  - name: Sportmonks Cricket
+    description: "Live cricket score, player statistics and fantasy API"
+    humanURL: https://docs.sportmonks.com/cricket/
+    baseURL: https://docs.sportmonks.com/cricket/
+    tags:
+      - Sports And Fitness
+    properties:
+      - type: Documentation
+        url: https://docs.sportmonks.com/cricket/
+common:
+  - type: Website
+    url: https://docs.sportmonks.com/cricket/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
