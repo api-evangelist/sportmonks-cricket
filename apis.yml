@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://docs.sportmonks.com/cricket/
 common:
+  - type: DomainSecurity
+    url: security/sportmonks-cricket-domain-security.yml
   - type: Website
     url: https://docs.sportmonks.com/cricket/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.sportmonks.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
