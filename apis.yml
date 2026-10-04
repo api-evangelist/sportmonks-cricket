@@ -33,13 +33,14 @@ x-category: "Sports & Fitness"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Sports And Fitness
   - Public APIs
+  - Sports
+  - Sports Data
+  - Cricket
 apis:
   - name: Sportmonks Cricket
     description: "Live cricket score, player statistics and fantasy API"
     humanURL: https://docs.sportmonks.com/cricket/
-    baseURL: https://docs.sportmonks.com/cricket/
     tags:
       - Sports And Fitness
     properties:
@@ -59,3 +60,5 @@ maintainers:
     email: kin@apievangelist.com
 x-parent: sportmonks
 x-relationship: product
+x-tags-removed:
+- Sports And Fitness
