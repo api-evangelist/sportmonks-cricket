@@ -41,7 +41,8 @@ apis:
   - name: Sportmonks Cricket
     description: "Live cricket score, player statistics and fantasy API"
     humanURL: https://docs.sportmonks.com/cricket/
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
